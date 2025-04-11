@@ -1,5 +1,3 @@
-# Firebase Studio
+# Candidate AI Agent Selector
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Submission for team Council
